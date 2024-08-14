@@ -1,0 +1,11 @@
+C:\Users\AlexMos\TestFiles\A_cup_of_tea -new.txt
+
+C:\Users\AlexMos\TestFiles\ZIP .zip
+
+C:\Games
+
+C:\Program Files (x86)\FreeCountdownTimer
+
+C:\Users\AlexMos\output111
+
+FreeCountdownTimer.exe
